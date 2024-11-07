@@ -23,5 +23,5 @@ This project is a simple Optical Character Recognition (OCR) application built u
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/ocr-project.git
+   git clone https://github.com/Alok-Pal/Alok-Pal-OCR-Optical-Character-Recognition.git
    cd ocr-project
